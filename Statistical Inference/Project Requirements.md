@@ -1,5 +1,3 @@
-You have made it to the end of Module 2, well done! Now let’s put all of this knowledge into practice by solving a statistical inference problem. 
-
 ### Objectives
 - Practice choosing variables and their transformations for a model.
 - Practice fitting a linear regression model.
@@ -38,9 +36,3 @@ During a project review, you may get asked questions that test your understandin
 - What is multicollinearity? Can you give an example? Why is it important to avoid multicollinearity in explanatory models?
 - What is a confounding variable? Can you give an example?
 - What is overfitting? How to detect and reduce overfitting?
-
-For general project review guidelines, please refer to [this document.](https://turingcollege.atlassian.net/wiki/spaces/DLG/pages/537395951/Peer+expert+reviews+corrections)
-
-### Additional Resources for this Sprint
-
-- [ ] [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/)
